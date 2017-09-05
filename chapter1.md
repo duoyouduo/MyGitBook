@@ -4,3 +4,7 @@
 
 我将在第二章开始，试着以目录的形式建立章节。
 
+
+
+我刚才试着在左侧边栏点击+Add an article按钮，在new article模态框中输入Title之后（我输入的是Second Chapter），自动生成一个文件名为second-chapter.md的文件，想要以目录形式创建的想法，不能通过这个操作实现；
+
