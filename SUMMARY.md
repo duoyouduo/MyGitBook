@@ -3,4 +3,5 @@
 * [Introduction](README.md)
 * [First Chapter](chapter1.md)
 * [Second Chapter](second-chapter.md)
+  * [目录是怎样炼成的](second-chapter/mu-lu-shi-zen-yang-lian-cheng-de.md)
 
