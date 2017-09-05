@@ -6,9 +6,7 @@
 
 我刚才试着在左侧边栏点击+Add an article按钮，在new article模态框中输入Title之后（我输入的是Second Chapter），自动生成一个文件名为second-chapter.md的文件，想要以目录形式创建的想法，不能通过这个操作实现；
 
-刚才在FILES TAB页对second-chapter.md文件右键点击选择rename，把它重命名为chapter2.md，可以看到命名之后，当前编辑界面会提示找不到文件，但是再点击一下重命名后的chapter2.md文件之后，会自动跳转到之前编辑的本章内容；
+刚才在FILES TAB页对second-chapter.md文件右键点击选择rename，把它重命名为chapter2.md，可以看到命名之后，当前编辑界面会提示找不到文件，但是再点击一下重命名后的chapter2.md文件之后，会自动跳转到这个新命名的空白文件中；
 
 刚才使用check for updates查看了下当前使用的GitBook版本，为7.0.12，发布于17 March 2017，相较于之前下载了一个程序文件日期显示在14年的GitBook客户端来说，体验要好的多，那个老版本的不论在启动上还是使用中，bug不断，而且在建立目录章节时不会自动关联到新生成的文件，有时候生成了目录，有时候生成单独的文件，对中文的支持也不是很好；
-
-
 
