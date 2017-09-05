@@ -10,11 +10,7 @@ Q1：TOC对应的英文单词是什么，如何解释？
 
 猜测1：topics的缩写？因为topic有话题、主题、论题、标题的意思；
 
-答案：通过刚刚的bing词典的搜索证明刚才的猜测是错误的，TOC其实是Table of Contents的缩写，即目录的意思！
+答案：通过刚刚bing词典的搜索证明刚才的猜测是错误的，TOC其实是Table of Contents的缩写，即目录的意思！
 
 英文解释如下，Table of Contents \( TOC \): You can browse the content tree of a TOC to look for topics unrelated to a current topic .
-
-
-
-
 
