@@ -8,5 +8,5 @@ This file file serves as your book's preface, a great place to describe your boo
 
 Q1：TOC对应的英文单词是什么，如何解释？
 
-猜测1：topics的缩写？因为topic有话题、标题的意思；
+猜测1：topics的缩写？因为topic有话题、主题、论题、标题的意思；
 
