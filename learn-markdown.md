@@ -9,7 +9,9 @@
 
 [I'm a relative reference to a repository file](../blob/master/LICENSE)
 
-This is [an example][id] reference-style link.
+This is [an example] [id] reference-style link.
 
 [id]: http://example.com/ "Optional Title Here"
 [Arbitrary case-insensitive reference text]: http://www.baidu.com
+
+[a link](http://google.fr "google")
