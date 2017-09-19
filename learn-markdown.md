@@ -116,7 +116,7 @@ public class GradeController {
 
 # Tables
 
-冒号是用来格式化表格每列文字的对齐方式的
+冒号是用来格式化表格每列文字的对齐方式的，但是在GitBook的预览这里貌似并没有生效
 
 
 | Tables        | Are           | Cool  |
