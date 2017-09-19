@@ -143,9 +143,9 @@ Markdown | Less | Pretty
 hello[^hello]
 
 [^hello]: hi这是我的标注
- 
+ ***
 用数学公式：
-
+___
 ~~上划线~~
 ~~$\overline{X}$~~
 下划线
