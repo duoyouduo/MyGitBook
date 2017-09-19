@@ -137,9 +137,18 @@ Markdown | Less | Pretty
 ---
 
 
-10. 脚注（footnote）
+脚注（footnote）
 实现方式如下：
-hello[^hello]
-[^hello]: hi这是我的标注
 
-<u>Underlined Text</u>
+hello[^hello]
+
+[^hello]: hi这是我的标注
+ 
+用数学公式：
+
+~~上划线~~
+~~$\overline{X}$~~
+下划线
+$\underline{X}$
+
+~~<u>Underlined Text</u>~~
