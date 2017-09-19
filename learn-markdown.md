@@ -18,4 +18,4 @@ This is [an example] [id] reference-style link.
 
 ![imgdff](/imgs/2017-07-06_155706.png "Optional title")
 
-![Funny cat](http://cats.ru/funny.png "Share this")
+![Funny cat](http://cats.ru/wp-content/uploads/2017/07/46-n.jpg "Share this")
