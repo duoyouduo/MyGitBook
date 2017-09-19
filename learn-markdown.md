@@ -3,7 +3,7 @@
 
 [I'm an inline-style link](https://www.google.com)
 
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+[I'm an inline-style link with title](https://www.google.com "Google\'s Homepage")
 
 [I'm a reference-style link][Arbitrary case-insensitive reference text]
 
@@ -14,4 +14,4 @@ This is [an example] [id] reference-style link.
 [id]: http://example.com/ "Optional Title Here"
 [Arbitrary case-insensitive reference text]: http://www.baidu.com
 
-[a link](http://google.fr "google")
+[a link](http://www.baidu.com "google")
