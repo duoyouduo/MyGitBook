@@ -16,4 +16,6 @@ This is [an example] [id] reference-style link.
 
 [a link](http://www.baidu.com "google")
 
-![img](./imgs/2017-07-06_155706.png "Optional title")
+![imgdff](/imgs/2017-07-06_155706.png "Optional title")
+
+![Funny cat](http://cats.ru/funny.png "Share this")
