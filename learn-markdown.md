@@ -133,3 +133,11 @@ Markdown | Less | Pretty
 
 > 试试块注释
 下面添加一条分隔线
+
+---
+
+
+10. 脚注（footnote）
+实现方式如下：
+hello[^hello]
+[^hello]: hi
