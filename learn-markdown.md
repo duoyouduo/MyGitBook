@@ -116,7 +116,7 @@ public class GradeController {
 
 # Tables
 
-冒号是用来格式化表格标题中的文字对齐方式的
+冒号是用来格式化表格标题中文字的对齐方式的
 
 
 | Tables | Are | Cool |
