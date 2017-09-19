@@ -140,4 +140,4 @@ Markdown | Less | Pretty
 10. 脚注（footnote）
 实现方式如下：
 hello[^hello]
-[^hello]: hi
+[^hello]: hi这是我的标注
