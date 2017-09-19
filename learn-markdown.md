@@ -109,3 +109,16 @@ public class GradeController {
 	}
 }
 ```
+
+这里是一行内联代码`return "redirect:hq1";`
+
+
+
+# Tables
+冒号是用来格式化表格中的文字对齐方式的
+
+| Tables | Are | Cool |
+| :------------- |:-------------:| -----:|
+| col 3 is | right-aligned | $1600 |
+| col 2 is | centered | $12 |
+| zebra stripes | are neat | $1 |
